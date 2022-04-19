@@ -1,2 +1,2 @@
 # it115-bio
-A place to keep thoughts about what to put in my professional biography 
+My name is liya hagos, a student at YearUp going to Quality assurance track. 
