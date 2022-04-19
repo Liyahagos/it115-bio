@@ -1,2 +1,3 @@
 # it115-bio
-My name is liya hagos, a student at YearUp going to Quality assurance track. 
+A place to keep thoughts about what to put in my professional bio
+My name is Liya Hagos, a student at YearUp taking the Quality assurance track. 
